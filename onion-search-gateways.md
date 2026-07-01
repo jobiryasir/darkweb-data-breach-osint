@@ -1,14 +1,7 @@
 # 🧅 Onion Search Gateways (Tor Network Only)
 
 > **⚠️ WARNING: SECURITY DISCLAIMER**
-> These links are exclusively for use within the **Tor Browser**. Do **NOT** attempt to access these addresses using standard browsers or proxy-based clearnet gateways (Tor2Web). Doing so exposes your IP address, browser fingerprint, and browsing activity to malicious third parties, ISPs, and the exit nodes. **Always ensure your Tor connection is active and JavaScript is disabled before visiting these services.**
-
----
-
-[![Status](https://img.shields.io/badge/NETWORK-TOR_ONLY-orange?style=flat-square)]()
-[![Category](https://img.shields.io/badge/INDEX-HIDDEN_SERVICES-black?style=flat-square)]()
-
-This file contains verified search engines and directory indexers that reside natively within the Tor network. These gateways are **inaccessible** via standard clearnet browsers.
+> These links are exclusively for use within the **Tor Browser**. Do **NOT** attempt to access these addresses using standard browsers or proxy-based clearnet gateways (Tor2Web). Always ensure your Tor connection is active and JavaScript is disabled.
 
 ---
 
@@ -30,12 +23,20 @@ This file contains verified search engines and directory indexers that reside na
 
 ---
 
+## 💬 IRC & Real-time Discovery
+
+| Engine Name | Purpose & Characteristics | Access (.onion) |
+| :--- | :--- | :--- |
+| **OnionIRC** | A gateway for IRC-style communication and discovery. | `qhhunyjzmdyx4i4d.onion` |
+| **DarkIRC Index** | Historical/Archive directory for IRC channels (Status: Unstable). | `irc2oaymknq4z74t.onion` |
+
+---
+
 ## 🛡️ Critical Tor-Only OpSec
 
-*   **No Proxy Usage:** Never use Tor2Web proxies (e.g., `link.onion.to`). They break anonymity and log your requests.
-*   **Browser Safety:** Use the "Safest" security level in Tor Browser (Settings -> Privacy & Security).
-*   **Identity Protection:** Never input your real-world credentials, emails, or personal details into any onion site.
-*   **Files & Downloads:** Do not download files from onion sites unless you are strictly using a sandboxed/offline environment for malware analysis.
+*   **No Proxy Usage:** Never use Tor2Web proxies. 
+*   **Browser Safety:** Use the "Safest" security level in Tor Browser.
+*   **Identity Protection:** Never input your real-world credentials.
 
 ---
 [⬅️ Back to Main Directory](README.md)
