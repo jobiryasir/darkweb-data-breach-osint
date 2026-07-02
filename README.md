@@ -35,8 +35,8 @@ Welcome to the **Darknet Research & Cyber Forensics Hub**. This repository is a 
 
 ### 🧠 1. Foundations & Security Protocols (docs/tutorials/)
 *   [PGP_Key_Learning.md](docs/osint-toolkit/PGP_Key_Learning.md) — Foundational module on PGP encryption.
-*   [PGP_Key_search.md](docs/tutorials/PGP_Key_search.md) — PGP key search and discovery methodologies.
-*   [anonymous-email.md](docs/tutorials/anonymous-email.md) — Architecture of anonymous and encrypted email services.
+*   [PGP_Key_search.md](docs/osint-toolkit/PGP_Key_search.md) — PGP key search and discovery methodologies.
+*   [anonymous-email.md](docs/osint-toolkit/anonymous-email.md) — Architecture of anonymous and encrypted email services.
 *   [Research_and_PDF.md](docs/tutorials/Research_and_PDF.md) — Protocols for secure data and PDF collection.
 *   [Darkweb_osint_learning.md](docs/tutorials/Darkweb_osint_learning.md) — Curated path for Dark Web OSINT mastery.
 *   [DARK-WEB-SCRAPING-PROTOCOL.md](docs/tutorials/DARK-WEB-SCRAPING-PROTOCOL.md) — Standard operating procedures for deep web scraping.
@@ -48,11 +48,11 @@ Welcome to the **Darknet Research & Cyber Forensics Hub**. This repository is a 
 
 ### 🕸️ 2. Network Access & Architecture (docs/darkweb-core/)
 *   [onion-network-tor.md](docs/darkweb-core/onion-network-tor.md) — Core mechanics of the Tor network.
-*   [onion-search-gateways.md](docs/darkweb-core/onion-search-gateways.md) — Deep web search gateways for `.onion` links.
+*   [onion-search-gateways.md](docs/osint-toolkit/onion-search-gateways.md) — Deep web search gateways for `.onion` links.
 *   [Tor_2_Web.md](docs/darkweb-core/Tor_2_Web.md) — Analysis of Tor2Web bridges.
 *   [Torbox.md](docs/darkweb-core/Torbox.md) — Guidelines for Torbox infrastructure.
 *   [i2p-network.md](docs/darkweb-core/i2p-network.md) — Invisible Internet Project (I2P) network structure.
-*   [i2p-search-gateways.md](docs/darkweb-core/i2p-search-gateways.md) — I2P search resources.
+*   [i2p-search-gateways.md](docs/osint-toolkit/i2p-search-gateways.md) — I2P search resources.
 *   [I2P_Access_with_tor.md](docs/darkweb-core/I2P_Access_with_tor.md) — Techniques for accessing I2P via Tor.
 *   [Freenet.md](docs/darkweb-core/Freenet.md) — Hyphanet (Freenet) decentralization guide.
 *   [decentralized-networks.md](docs/darkweb-core/decentralized-networks.md) — Broader concepts of decentralized infrastructure.
