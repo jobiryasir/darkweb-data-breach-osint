@@ -34,7 +34,7 @@ Welcome to the **Darknet Research & Cyber Forensics Hub**. This repository is a 
 ## 📂 Comprehensive Documentation Index
 
 ### 🧠 1. Foundations & Security Protocols (docs/tutorials/)
-*   [PGP_Key_Learning.md](docs/tutorials/PGP_Key_Learning.md) — Foundational module on PGP encryption.
+*   [PGP_Key_Learning.md](docs/osint-toolkit/PGP_Key_Learning.md) — Foundational module on PGP encryption.
 *   [PGP_Key_search.md](docs/tutorials/PGP_Key_search.md) — PGP key search and discovery methodologies.
 *   [anonymous-email.md](docs/tutorials/anonymous-email.md) — Architecture of anonymous and encrypted email services.
 *   [Research_and_PDF.md](docs/tutorials/Research_and_PDF.md) — Protocols for secure data and PDF collection.
